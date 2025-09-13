@@ -3,14 +3,24 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.facebook.com/ahmed.hamdy.231468" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  
   <a href="mailto:elshayba@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://wa.me/201021629768" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ahmed-hamdy-elshayeb-net" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
+
 
 <br>
 
